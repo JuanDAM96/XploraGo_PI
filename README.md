@@ -16,7 +16,8 @@ Permite crear grupos, planificar rutas, gestionar gastos y descubrir actividades
 
 - `docs/` → Documentación oficial del proyecto 
 - `src/` → Código fuente
-- `diseño/` → Prototipos y recursos de diseño (Figma, wireframes, etc.)  
+- `diseño/` → Prototipos y recursos de diseño (Figma, wireframes, etc.)
+- `.gitignore` → Archivos y carpetas que Git debe ignorar (temporal, compilados, IDE, etc.)  
 - `README.md` → Descripción del proyecto
 - `LICENSE` → Licencia GPL v3.0
 
@@ -29,14 +30,6 @@ Permite crear grupos, planificar rutas, gestionar gastos y descubrir actividades
 | [`docs/Sprint0_E1_Memoria.pdf`](docs/Sprint0_E1_Memoria.pdf) | Documento oficial de la entrega E1 |
 | [Trello Board](https://trello.com/b/v7Zy8t7f/proyecto-intermodular) | Tablero con historias de usuario y backlog |
 | [Repositorio GitHub](https://github.com/JuanDAM96/TFG.git) | Repositorio principal del proyecto |
-
----
-
-## 🧩 Historias cubiertas 
-- **HU-001** Portada y datos del proyecto  
-- **HU-002** Resumen ejecutivo  
-- **HU-003** Justificación (beneficios, benchmark, ODS)  
-- **HU-004** Backlog inicial  
 
 ---
 
