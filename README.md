@@ -16,7 +16,6 @@ Permite crear grupos, planificar rutas, gestionar gastos y descubrir actividades
 
 - `docs/` → Documentación oficial del proyecto 
 - `diseño/` → Prototipos y recursos de diseño (Figma, wireframes, etc.)
-- `.gitignore` → Archivos y carpetas que Git debe ignorar (temporal, compilados, IDE, etc.)  
 - `README.md` → Descripción del proyecto
 - `LICENSE` → Licencia GPL v3.0
 
