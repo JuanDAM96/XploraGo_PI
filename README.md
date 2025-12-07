@@ -26,7 +26,7 @@ Permite crear grupos, planificar rutas, gestionar gastos y descubrir actividades
 
 | Archivo | Descripción |
 |----------|--------------|
-| [Trello Board]([https://trello.com/b/v7Zy8t7f/proyecto-intermodular](https://trello.com/b/XPFtVCuo/pidam2b-extremgo-xplorago-pendiente-github-y-doc)) | Tablero con historias de usuario y backlog |
+| [Trello Board](https://trello.com/b/XPFtVCuo/pidam2b-extremgo-xplorago-pendiente-github-y-doc) | Tablero con historias de usuario y backlog |
 | [Repositorio GitHub](https://github.com/JuanDAM96/TFG.git) | Repositorio principal del proyecto |
 
 ---
