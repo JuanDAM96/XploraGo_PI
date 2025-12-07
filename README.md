@@ -27,6 +27,7 @@ Permite crear grupos, planificar rutas, gestionar gastos y descubrir actividades
 |----------|--------------|
 | [Trello Board](https://trello.com/b/XPFtVCuo/pidam2b-extremgo-xplorago-pendiente-github-y-doc) | Tablero con historias de usuario y backlog |
 | [Repositorio GitHub](https://github.com/JuanDAM96/TFG.git) | Repositorio principal del proyecto |
+| [Figma](https://www.figma.com/design/s5pg8VBEK6YNujlkgyLbX4/XploraGo?m=auto&t=tAavad7f3FVFzrOR-6) | Archivo .fig |
 
 ---
 
