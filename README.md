@@ -15,7 +15,7 @@ Permite crear grupos, planificar rutas, gestionar gastos y descubrir actividades
 ## 📂 Estructura del repositorio
 
 - `docs/` → Documentación oficial del proyecto 
-- `diseño/` → Prototipos y recursos de diseño (Figma, wireframes, etc.)
+- `diseño/` → Prototipos y recursos de diseño (Figma)
 - `README.md` → Descripción del proyecto
 - `LICENSE` → Licencia GPL v3.0
 
